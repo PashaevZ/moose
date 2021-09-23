@@ -1,0 +1,2 @@
+# moose
+Site for universities
